@@ -1,4 +1,4 @@
-package pl.zabrze;
+package main.java.pl.zabrze.day_1;
 
 public class ArrayApp {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package pl.zabrze.quiz_4;
 
-import pl.zabrze.Quiz;
+import main.java.pl.zabrze.day_1.Quiz;
 
 import java.util.Scanner;
 
