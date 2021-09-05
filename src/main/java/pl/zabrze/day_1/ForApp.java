@@ -1,4 +1,4 @@
-package main.java.pl.zabrze.day_1;
+package pl.zabrze.day_1;
 
 import java.util.Scanner;
 

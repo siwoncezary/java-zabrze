@@ -1,4 +1,4 @@
-package main.java.pl.zabrze.day_1;
+package pl.zabrze.day_1;
 
 public class CircleApp {
     public static void main(String[] args) {
