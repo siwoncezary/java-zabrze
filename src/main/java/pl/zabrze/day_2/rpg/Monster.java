@@ -7,11 +7,17 @@ abstract public class Monster implements BattleCharacter{
     protected int healthLevel;
     private String name;
     protected int experience;
+    protected Elements elements;
 
     public Monster(String name) {
         this.name = name;
         healthLevel = 100;
         experience = 0;
+    }
+
+    public Monster(String name, Elements elements) {
+        this.name = name;
+        this.elements = elements;
     }
 
     public int getHealthLevel() {
