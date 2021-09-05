@@ -1,6 +1,6 @@
 package pl.zabrze.day_2.rpg;
 
-public class Hero implements Attack, Damage, Death{
+public class Hero implements BattleCharacter{
 
     @Override
     public double attack() {

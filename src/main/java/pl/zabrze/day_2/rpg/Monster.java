@@ -2,7 +2,7 @@ package pl.zabrze.day_2.rpg;
 
 import java.util.Random;
 
-abstract public class Monster implements Attack, Damage, Death{
+abstract public class Monster implements BattleCharacter{
     public final static Random random = new Random();
     protected int healthLevel;
     private String name;
